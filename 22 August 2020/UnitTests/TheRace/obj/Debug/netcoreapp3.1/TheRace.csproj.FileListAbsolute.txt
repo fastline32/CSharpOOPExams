@@ -1,0 +1,10 @@
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+E:\CSharp-oop-exams\22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
