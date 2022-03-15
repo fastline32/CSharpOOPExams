@@ -1,0 +1,14 @@
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+E:\CSharp-oop-exams\15aug2021\03. Unit Tests_Skeleton\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
