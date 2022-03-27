@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25f905bc-fe73-4c1b-b4c0-33f1c63caaf9": {
+      "ProjectGuid": "25f905bc-fe73-4c1b-b4c0-33f1c63caaf9",
+      "DisplayName": "Bakery",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

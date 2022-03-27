@@ -1,0 +1,14 @@
+E:\CSharp-oop-exams\12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.AssemblyReference.cache
+E:\CSharp-oop-exams\12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-oop-exams\12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+E:\CSharp-oop-exams\12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+E:\CSharp-oop-exams\12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+E:\CSharp-oop-exams\12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+E:\CSharp-oop-exams\12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+E:\CSharp-oop-exams\12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+E:\CSharp-oop-exams\12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+E:\CSharp-oop-exams\12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+E:\CSharp-oop-exams\12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+E:\CSharp-oop-exams\12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+E:\CSharp-oop-exams\12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+E:\CSharp-oop-exams\12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
