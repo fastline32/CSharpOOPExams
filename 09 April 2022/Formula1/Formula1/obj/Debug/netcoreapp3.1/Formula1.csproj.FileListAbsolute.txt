@@ -1,0 +1,14 @@
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+E:\CSharp-oop-exams\9 April 2022\01. Structure_Skeleton - 3.1\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+E:\CSharp-oop-exams\9 April 2022\03. Unit Tests_Skeleton\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache

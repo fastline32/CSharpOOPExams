@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c9411ad-6841-444f-9243-416d78b7b43e": {
+      "ProjectGuid": "3c9411ad-6841-444f-9243-416d78b7b43e",
+      "DisplayName": "SmartphoneShop",
+      "ColorIndex": 0
+    },
+    "912f2a04-97b9-4033-9fea-9d11e4ba9ec2": {
+      "ProjectGuid": "912f2a04-97b9-4033-9fea-9d11e4ba9ec2",
+      "DisplayName": "SmartphoneShop.Tests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
